@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+package-lock.json
+
+# React
+client/node_modules/
+client/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
